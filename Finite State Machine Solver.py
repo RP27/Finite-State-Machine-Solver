@@ -19,7 +19,7 @@ testData = (
 # Status of whether the destination state is found
 foundStatus = [0]
 
-# Sequence of bytton presses required to take the watch from the starting state to the destination state
+# Sequence of button presses required to take the watch from the starting state to the destination state
 buttonPresses = []  
 
 # Creates a list of 0s, with each 0 representing a mode. Once a mode is searched, the value of the mode in the list is then set to 1.
